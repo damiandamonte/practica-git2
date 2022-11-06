@@ -1,0 +1,98 @@
+commit f74f1a470339172c57bf763a0792a21a91e47e49
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sun Nov 6 11:45:44 2022 -0300
+
+    Agregando 2 parrafos
+
+commit 2040ad1ef412394943257e8291400f0c6e90f9e6
+Merge: 100fbfc 3a8a016
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 20:01:16 2022 -0300
+
+    solucionando comflicto en estaciones del año y fechas de inicio
+
+commit 100fbfc22cfa7bb269f7cd20040ac31a9c53ba51
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 18:54:11 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3a8a01613fa2d02cb5f7a99b4e56883c5d2fc1ef
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 18:54:11 2022 -0300
+
+    Agregando las estaciones del año
+
+commit 83bf69a1fe41dbde741337187d7f5a03e624e970
+Merge: 2eff8b8 d11649f
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 17:56:49 2022 -0300
+
+    Resolviendo conflicto merge main/html en el docuemnto index.html
+
+commit d11649fc90b94c6ca4c992a0c390074f3c7497ec
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 17:43:36 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 2eff8b80969978459dc948edda1f9e6c2f4433c8
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 17:39:19 2022 -0300
+
+    Agregando style.css al index.html
+
+commit 23ce787fbe5ae93f96bf5617b9ddc89ed1951ab2
+Merge: e0838b8 4b968b7
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 17:20:24 2022 -0300
+
+    Merge branch 'js'
+
+commit 4b968b7f10fe912a4448a3d2e47fc0fd5eab39ea
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 17:01:03 2022 -0300
+
+    Creando index.js
+
+commit e0838b8fc54fb84607b594b566ef34c61aa77c13
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 16:40:06 2022 -0300
+
+    Creando style.css
+
+commit 63d7b9861db1e7b85d73c81ad9c94e0c7f52ab33
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Sat Nov 5 15:26:33 2022 -0300
+
+    Creando index.html
+
+commit 478be0d427691a3f4bf62880d504ecd9ec3730f5
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Fri Nov 4 15:11:05 2022 -0300
+
+    ignorando archivos .exe
+
+commit 830b91f0e29b1d0b3815a7a92d816b3cc3a90764
+Author: Damian-Damonte <100038083+Damian-Damonte@users.noreply.github.com>
+Date:   Fri Nov 4 14:30:37 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 432a53a2325e17bdb7ffcd3c23444730db18bb97
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Fri Nov 4 14:23:22 2022 -0300
+
+    Agregando más contenido al README
+
+commit 36295ffb058ebf12c25d7cea524df0df8a2e4ea4
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Fri Nov 4 12:42:32 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit 1c3337798f2ec6eea87950cdc8dd5b0a9d589e97
+Author: Damian Damonte <damontedamian@gmail.com>
+Date:   Fri Nov 4 12:38:08 2022 -0300
+
+    Primer commit 😃
